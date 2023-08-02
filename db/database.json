@@ -1,0 +1,46 @@
+{
+  "definitions": {
+    "losstypes":{
+      "0": {
+        "name": "mental",
+        "description": "Mental or Verbal Torture: Harassment, threatening to arrest, torture or to kill; Playing hurtful mental games, etc. that affect the health of the victim."
+      },
+      "1": {
+        "name": "physical1",
+        "description": "Physical Injury - Minor: Slapping, beating with baton, shocker, pepper spray, etc."
+      },
+      "2": {
+        "name": "physical2",
+        "description": "Physical Injury - Serious: Beating that results in bleeding or serious damage that requires visiting a doctor or surgeon"
+      },
+      "3": {
+        "name": "Physical3",
+        "description": "Physical Injury - Severe: Injuring (Shooting at or brutally beating) the victim the way it's life threatening"
+      },
+      "4": {
+        "name": "prison",
+        "description": "Prison Unjustly: Detain or send to jail with an unfair trial with global moral standards"
+      },
+      "5": {
+        "name": "monetary",
+        "description": "Monetary Loss: Stealing or causing the victim lose their money, assets, job or income."
+      },
+      "6": {
+        "name": "defamation",
+        "description": "Ruin Reputation: Defaming well-reputed victim in the neighborhoodm work place, society or in the virtual world."
+      },
+      "7": {
+        "name": "migration",
+        "description": "Forcing Migration: Causing the victim to leave the country or town without their wish."
+      },
+      "8": {
+        "name": "death",
+        "description": "Killing Victim: Taking the life of the victim deliberately or indirectly causing their death."
+      },
+      "9": {
+        "name": "afterdeath",
+        "description": "After Death Assaults: Abusing the dead body of the victim, defaming the reputation of the killed victim after their death, bothering, extorting, arresting or torturing the family of the killed person by any means."
+      }
+    }
+  }
+}
